@@ -1,0 +1,26 @@
+# Windows & Office temporary files
+~$*.pptx
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output demo result
+demo_result.png
